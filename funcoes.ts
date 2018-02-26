@@ -2,7 +2,7 @@ function useTheForce(name: string):void{
   console.log("Use the force, " + name)
 }
 
-useTheForce("GAbriel ")
+useTheForce("Debora")
 
 let zoeira = function (parsecs: number):boolean{
   return parsecs < 12

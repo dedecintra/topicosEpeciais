@@ -1,0 +1,12 @@
+ng g c restaurants/restaurant --spec=-false
+
+para criar um objeto dentro da classe
+
+ng serve
+p/subri o servidor 
+localhost:4200
+
+npm install -> pra baixar todos os modulos que será utilizado
+
+
+

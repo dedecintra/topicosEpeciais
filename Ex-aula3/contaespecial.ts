@@ -4,7 +4,7 @@ export class ContaEspecial extends ContaCorrente implements excecao {
   limite: number
   constructor(){
     super (100)
-    this.limite = 300
+    this.limite = 100
   }
   saque(valorSaque:number){
     if (this.saldo - valorSaque + this.limite >= 0 ) {
